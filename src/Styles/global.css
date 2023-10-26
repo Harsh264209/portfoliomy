@@ -1,0 +1,6 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Bitter&family=Copse&family=Cutive&family=IBM+Plex+Sans:wght@600&family=Kaisei+Decol:wght@500;700&family=Lora:wght@700&family=Martian+Mono:wght@300&family=Playfair+Display:ital,wght@0,500;1,400&family=Poppins:ital,wght@0,300;0,400;1,400&family=Rubik+Distressed&family=Sanchez&family=Scope+One&family=Slabo+27px&family=Trocchi&family=Vesper+Libre&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
